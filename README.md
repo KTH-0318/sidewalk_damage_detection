@@ -4,7 +4,9 @@
 Roboflow로 **1,018장 직접 라벨링**(Train 698 / Valid 215 / Test 105) 후 100 epoch 학습.
 위험 클래스 탐지 시 소리로 안내하는 보행 보조 활용안을 제시했습니다.
 
-프로젝트 상세 → [Notion 포트폴리오](노션 링크)
+**프로젝트 상세 → [Notion 포트폴리오](https://zany-meeting-aba.notion.site/39083f9aaedb8010ba00c96c0f2f139f)**
+
+**발표 자료 · 시연 영상 → [Google Drive](https://drive.google.com/drive/folders/18Q989NgC7MC1TtWgY-En8Ts0YNXXyKEJ)**
 
 ## 클래스
 | 클래스 | 정의 |
